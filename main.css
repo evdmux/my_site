@@ -1,0 +1,23 @@
+#leftside {
+    text-indent: 160px;
+    margin-top: 130px;
+    margin-left: 9`0px;
+}
+
+body {
+    font-family: "Helvetica Neue";
+    font-size: 25px;
+}
+
+#rightside, hr {
+    margin: 0px 100px 500px 1500px;
+}
+
+a {
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+h2 {
+    text-align: center;
+}
