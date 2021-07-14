@@ -1,16 +1,15 @@
-#leftside {
+#left {
     text-indent: 160px;
     margin-top: 130px;
-    margin-left: 9`0px;
 }
 
 body {
     font-family: "Helvetica Neue";
-    font-size: 25px;
+    font-size: 15px;
 }
 
-#rightside, hr {
-    margin: 0px 100px 500px 1500px;
+#right, hr {
+    margin: 0 0 0 1100px;
 }
 
 a {
@@ -21,3 +20,4 @@ a {
 h2 {
     text-align: center;
 }
+
